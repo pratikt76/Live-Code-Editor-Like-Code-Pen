@@ -23,8 +23,8 @@ textarea {
 }
 
 iframe {
-  width: 900px;
-  height: 746px;
+  width: 1010px;
+  height: 750px;
   border: 2px solid black;
   /* grid-row: 2/3;
   grid-column: 2/3; */
@@ -44,7 +44,7 @@ iframe {
   /* background-color: red; */
   grid-row: 3/4;
   grid-column: 1/2;
-  height: 244px;
+  /* height: 244px; */
 }
 
 #output {
