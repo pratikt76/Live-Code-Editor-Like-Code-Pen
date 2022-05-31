@@ -19,7 +19,7 @@ body {
 
 .about {
   position: absolute;
-  right: 12px;
+  right: 25px;
   bottom: 16px;
 }
 
@@ -54,6 +54,7 @@ iframe {
 #output {
   grid-row: 1/4;
   grid-column: 2/3;
+  margin-left: -250px;
 }
 
 textarea::placeholder {
